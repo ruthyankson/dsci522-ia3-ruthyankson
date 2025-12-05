@@ -48,7 +48,7 @@ as well as Quarto [@Allaire_Quarto_2022].
 # Results
 ::: {#fig-horse-all width=80%}
 
-![](../results/horse_pops_plot.png)
+![](results/horse_pops_plot.png)
 
 Horse populations for all provinces in Canada from 1906 - 1972.
 :::
@@ -83,7 +83,7 @@ Additionally, note that in @tbl-horses-sd we consider the sample standard deviat
 
 :::{#fig-horse-largest width=70%}
 
-![](../results/horse_pops_plot_largest_sd.png)
+![](results/horse_pops_plot_largest_sd.png)
 
 Horse populations for the province with the largest standard deviation
 :::

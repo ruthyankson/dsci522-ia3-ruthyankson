@@ -9,10 +9,12 @@ format:
     toc-depth: 3
     toc-expand: true
     number-sections: true
+    fig-align: left 
   pdf:
     toc: true
     toc-depth: 3
     number-sections: true
+    fig-align: left
 bibliography: references.bib
 execute:
   echo: false

@@ -5,3 +5,5 @@
 **.jupyter/
 **.local/
 **.npm/
+**qmd_example_files
+**.quarto/
